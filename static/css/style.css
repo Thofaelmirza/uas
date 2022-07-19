@@ -1,0 +1,15 @@
+#about img {
+    height: 80%; 
+    padding-left: 120px;
+    margin-top: 69px;
+}
+
+
+@media screen and (max-width:576px){
+    #about img{
+      margin-right:8vh;
+      height: 100%;
+      width: 80%; 
+      
+    }
+}
